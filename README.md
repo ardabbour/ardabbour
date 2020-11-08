@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on aerial robot navigation
+- 🌱 I’m currently learning multi-robot systems and cloud computing tools
+- 💬 Ask me about robotics (hybrid planning, navigation, autonomy, SLAM)
+- 📫 How to reach me: https://ardabbour.com/contact
+
 <!--
 **ardabbour/ardabbour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
